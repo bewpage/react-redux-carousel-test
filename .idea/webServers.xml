@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bec09178-6401-4658-b34d-cf4ddb47a874" name="rasbery-test" url="http://192.168.0.200">
+        <fileTransfer host="192.168.0.200" port="21" rootFolder="/react-redux-carousel-test">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
